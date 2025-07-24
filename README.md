@@ -10,3 +10,8 @@ Network Check Status is a simple web application that monitors your internet con
 🌐 Works across all modern browsers
 
 This tool is built using HTML, CSS, and Vanilla JavaScript, with a clean and minimal UI for quick usability
+
+## 🚀 Live Demo
+
+[![Live Site](https://code-prafull.github.io/Network-Status-Checker/)
+
