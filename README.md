@@ -13,5 +13,5 @@ This tool is built using HTML, CSS, and Vanilla JavaScript, with a clean and min
 
 ## 🚀 Live Demo
 
-[[Live Site](https://code-prafull.github.io/Network-Status-Checker/)
+[Live Site](https://code-prafull.github.io/Network-Status-Checker/)
 
